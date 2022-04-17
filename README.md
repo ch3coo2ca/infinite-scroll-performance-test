@@ -1,4 +1,4 @@
-## Run product build in local
+## Run production build in local
 ```
 yarn build && yarn startProd
 ```
